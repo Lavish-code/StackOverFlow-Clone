@@ -8,7 +8,7 @@ A full-stack web application that replicates the core functionality of Stack Ove
 - **Question Management**: Ask, edit, and delete questions
 - **Answer System**: Provide detailed answers to questions
 - **Voting System**: Upvote and downvote questions and answers
-- **User Profiles**: View user information and activity
+- **User Profiles**: View user information and activites
 - **Search Functionality**: Search questions by keywords and tags
 - **Tag System**: Organize questions with relevant tags
 - **Responsive Design**: Mobile-friendly interface
@@ -251,3 +251,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If you found this project helpful, please give it a star on GitHub!
+
